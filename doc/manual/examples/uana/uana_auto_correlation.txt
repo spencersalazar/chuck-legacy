@@ -1,2 +1,0 @@
-This UAna is a convenience class for the case of using XCorr with two identical
-inputs. It computes the auto-correlation of the input UAna.

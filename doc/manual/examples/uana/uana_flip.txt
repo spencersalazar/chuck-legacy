@@ -1,2 +1,0 @@
-This UAna converts the signal from an upstream UGen into the analysis domain for
-consumption by other UAnae.
